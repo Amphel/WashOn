@@ -17,7 +17,7 @@
 
 # Table of Contents
 
-1. [Introduction] (#Introduction)  
+1. [Introduction](#Introduction)  
 1.1 [Document conventions] (#Document_conventions)  
 1.2 [Intended audience and Reading Suggestions] (#audience)  
 1.3 [Project Scope] (#ProjectScope)  
